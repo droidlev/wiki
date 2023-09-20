@@ -123,7 +123,7 @@ azerothcore-wotlk_ac-worldserver_1   ./acore.sh run-worldserver    Up           
 and then attach the worldserver. E.g.
 
 ```
-docker attach azerothcore-wotlk_ac-worldserver_1
+docker attach azerothcore-wotlk_ac-worldserver-1
 ```
 
 If you got error message `the input device is not a TTY.  If you are using mintty, try prefixing the command with 'winpty'` 
